@@ -26,7 +26,7 @@ const projects = [
 		gitHubLink:
 			'https://github.com/Fineralla/Portfolio/tree/main/pages/login-form',
 		liveDemoLink:
-			'https://fineralla.github.io/Portfolio/pages/pig-game/index.html'
+			'https://fineralla.github.io/Portfolio/pages/login-form/index.html'
 	},
 	{
 		title: 'Mortgage Calculator',

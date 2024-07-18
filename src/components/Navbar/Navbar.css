@@ -36,7 +36,7 @@
   row-gap: 10px;
   align-items: center;
   column-gap: 40px;
-  font-size: 18px;
+  font-size: 20px;
   font-weight: 500;
   font-family: 'Poppins', sans-serif;
 }
@@ -44,7 +44,7 @@
 .nav-list__link {
   position: relative;
   color: var(--nav-text);
-  transition: opacity 0.2s ease-in;
+  transition: opacity, color 0.2s ease-in;
 }
 
 .nav-list__link::before {
@@ -64,7 +64,9 @@
 }
 
 .nav-list__link:hover {
-  opacity: 0.8;
+  /* opacity: 0.8; */
+  /* color: var(--title-1); */
+  color: var(--purple);
 }
 
 .nav-list__link--active::before {

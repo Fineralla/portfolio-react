@@ -15,8 +15,7 @@ const projects = [
 		imgBig: project01Big,
 		gitHubLink:
 			'https://github.com/Fineralla/Portfolio/tree/main/pages/guess-the-number',
-		liveDemoLink:
-			'https://fineralla.github.io/Portfolio/pages/guess-the-number/index.html'
+		liveDemoLink: 'https://fineralla.github.io/guess-the-number-game/'
 	},
 	{
 		title: 'Login | Registration Form',
@@ -49,21 +48,13 @@ const projects = [
 			'https://fineralla.github.io/Portfolio/pages/pig-game/index.html'
 	}
 	// {
-	// 	title: 'Landing',
-	// 	skills: 'React, Node.js, MongoDB',
+	// 	title: 'Landing Hydra',
+	// 	skills: 'HTML, CSS, animation',
 	// 	img: project05,
 	// 	imgBig: project05Big,
-	// 	gitHubLink: 'https://github.com',
+	// 	gitHubLink: 'https://github.com/Fineralla/landing-page-Hydra',
 	// 	liveDemoLink: ''
 	// },
-	// {
-	// 	title: 'Gaming community',
-	// 	skills: 'React, Node.js, MongoDB',
-	// 	img: project06,
-	// 	imgBig: project06Big,
-	// 	gitHubLink: 'https://github.com',
-	// 	liveDemoLink: ''
-	// }
 ];
 // добавить к каждому проекту ключ, который будет уникальным
 

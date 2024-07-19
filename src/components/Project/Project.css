@@ -20,10 +20,6 @@
   transform: translateY(-5%);
 }
 
-/* .project__img {
-  border-top: 1.5px solid var(--project-card-text);
-} */
-
 .project__title {
   padding: 15px 20px 25px;
   font-weight: 700;

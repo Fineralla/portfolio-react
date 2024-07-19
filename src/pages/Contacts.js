@@ -21,11 +21,11 @@ function Contacts() {
 						<h2 className='title-2'>Email</h2>
 						<p>
 							<a
-								href='mailto:artistclay39@gmail.com'
+								href='mailto:fineralla@yandex.ru'
 								rel='noreferrer'
 								target='_blank'
 							>
-								artistclay39@gmail.com
+								fineralla@yandex.ru
 							</a>
 						</p>
 					</li>

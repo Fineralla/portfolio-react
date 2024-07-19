@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio-react/static/css/main.21b67977.css",
-    "main.js": "/portfolio-react/static/js/main.315063d8.js",
+    "main.js": "/portfolio-react/static/js/main.1038c8cf.js",
     "static/js/453.906b0208.chunk.js": "/portfolio-react/static/js/453.906b0208.chunk.js",
     "static/media/02-big.jpg": "/portfolio-react/static/media/02-big.5cf318ebdc827762ccef.jpg",
     "static/media/01-big.jpg": "/portfolio-react/static/media/01-big.ff32f66ceaf52a248099.jpg",
@@ -12,20 +12,20 @@
     "static/media/04.jpg": "/portfolio-react/static/media/04.9e1e65522e9a44b3197c.jpg",
     "static/media/03.jpg": "/portfolio-react/static/media/03.09e46017f4f1ee9e788d.jpg",
     "static/media/header-bg.png": "/portfolio-react/static/media/header-bg.5bf82a058f892ab7f237.png",
-    "static/media/sun.svg": "/portfolio-react/static/media/sun.4d47962acd6c83e7e7aca592ec39545f.svg",
-    "static/media/moon.svg": "/portfolio-react/static/media/moon.829f022e764b1d37016e364c5447dfdb.svg",
-    "static/media/live.svg": "/portfolio-react/static/media/live.eb2c159c008cedf2ce96641ddb1a6bae.svg",
-    "static/media/gitHub.svg": "/portfolio-react/static/media/gitHub.db1e3cfa3aa61658d837d82e113dc1fe.svg",
-    "static/media/gitHub-black.svg": "/portfolio-react/static/media/gitHub-black.071d9567a434b8b20e6efdeed3f54b3c.svg",
-    "static/media/telegram.svg": "/portfolio-react/static/media/telegram.d955a21b7624983286063a384267bd95.svg",
-    "static/media/vk.svg": "/portfolio-react/static/media/vk.ffb489eeac4ab842395ffb315910ea7f.svg",
+    "static/media/sun.svg": "/portfolio-react/static/media/sun.f8606845ee97bee21c3bc95b2dec3866.svg",
+    "static/media/moon.svg": "/portfolio-react/static/media/moon.312bed9230c94183d589bcc499993093.svg",
+    "static/media/live.svg": "/portfolio-react/static/media/live.38274e38a8174697644206cf7d6e35eb.svg",
+    "static/media/gitHub.svg": "/portfolio-react/static/media/gitHub.a5541850a2a6843f34467a91657cc39d.svg",
+    "static/media/gitHub-black.svg": "/portfolio-react/static/media/gitHub-black.eba18b29d6c80aa253ddd50dd42f59f5.svg",
+    "static/media/telegram.svg": "/portfolio-react/static/media/telegram.538b4fb970b06a22c8e084c84c0a7867.svg",
+    "static/media/vk.svg": "/portfolio-react/static/media/vk.92c39b2c917df4fd4643503dd57a49bf.svg",
     "index.html": "/portfolio-react/index.html",
     "main.21b67977.css.map": "/portfolio-react/static/css/main.21b67977.css.map",
-    "main.315063d8.js.map": "/portfolio-react/static/js/main.315063d8.js.map",
+    "main.1038c8cf.js.map": "/portfolio-react/static/js/main.1038c8cf.js.map",
     "453.906b0208.chunk.js.map": "/portfolio-react/static/js/453.906b0208.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.21b67977.css",
-    "static/js/main.315063d8.js"
+    "static/js/main.1038c8cf.js"
   ]
 }

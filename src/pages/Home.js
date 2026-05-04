@@ -9,19 +9,14 @@ function Home() {
 				<div className='container'>
 					<ul className='content-list'>
 						<li className='content-list__item'>
-							<h2 className='title-2'>Frontend</h2>
+							<h2 className='title-2'>My tools</h2>
 							<p>
-								JavaScript, TypeScript, ReactJS, Redux, HTML, CSS, NPM,
-								TailwindCSS
+								Figma, Adobe Photoshop, Adobe Illustrator, Tilda
 							</p>
 							{/* <p>
 								JavaScript, TypeScript, ReactJS, Angular, Redux, HTML, CSS, NPM,
 								BootStrap, MaterialUI, Yarn, TailwindCSS, StyledComponents
 							</p> */}
-						</li>
-						<li className='content-list__item'>
-							<h2 className='title-2'>Other</h2>
-							<p>Git, NodeJS, Reflex, MySQL, YouTrack</p>
 						</li>
 						{/* <li className='content-list__item'>
 							<h2 className='title-2'>Backend</h2>

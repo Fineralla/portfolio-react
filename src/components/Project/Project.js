@@ -9,12 +9,13 @@ function Project({ title, img, index, skills, gitHubLink, liveDemoLink }) {
 			<NavLink to={`/project-page/${index}`}>
 				<h3 className='project__title'>{title}</h3>
 				<img src={img} alt={title} className='project__img' />
-				<p className='project__skills'>Stack: {skills}</p>
+				<p className='project__skills'></p>
+				{/* <p className='project__skills'>Stack: {skills}</p> */}
 			</NavLink>
-			<div className='project__btns'>
+			{/* <div className='project__btns'>
 				<BtnGitHub link={gitHubLink} />
 				<BtnLiveDemo link={liveDemoLink} />
-			</div>
+			</div> */}
 		</li>
 	);
 }

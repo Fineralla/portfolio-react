@@ -24,7 +24,7 @@ function Footer() {
 								<img src={telegram} alt='Link' />
 							</a>
 						</li>
-						<li className='social__item'>
+						{/* <li className='social__item'>
 							<a
 								href='https://github.com/Fineralla'
 								target='_blank'
@@ -32,7 +32,7 @@ function Footer() {
 							>
 								<img src={gitHub} alt='Link' />
 							</a>
-						</li>
+						</li> */}
 					</ul>
 				</div>
 			</div>

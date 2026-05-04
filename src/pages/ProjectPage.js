@@ -22,8 +22,8 @@ function ProjectPage() {
 						<p>{project.skills}</p>
 					</div>
 					<div className='project-details__btns'>
-						<BtnGitHub link={project.gitHubLink} />
-						<BtnLiveDemo link={project.liveDemoLink} />
+						{/* <BtnGitHub link={project.gitHubLink} /> */}
+						{/* <BtnLiveDemo link={project.liveDemoLink} /> */}
 					</div>
 				</div>
 			</div>

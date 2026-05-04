@@ -6,6 +6,8 @@ import project03 from './../img/projects/03.jpg';
 import project03Big from './../img/projects/03-big.jpg';
 import project04 from './../img/projects/04.jpg';
 import project04Big from './../img/projects/04-big.jpg';
+import project05 from './../img/projects/05.jpg';
+import project05Big from './../img/projects/05-big.jpg';
 
 const projects = [
 	{
@@ -46,7 +48,17 @@ const projects = [
 			'https://github.com/Fineralla/Portfolio/tree/main/pages/pig-game',
 		liveDemoLink:
 			'https://fineralla.github.io/Portfolio/pages/pig-game/index.html'
-	}
+	},
+	{
+		title: 'RuStore Chat Bot',
+		skills: 'JS, HTML, CSS',
+		img: project05,
+		imgBig: project05Big,
+		gitHubLink:
+			'https://github.com/Fineralla/Portfolio/tree/main/pages/pig-game',
+		liveDemoLink:
+			'https://fineralla.github.io/Portfolio/pages/pig-game/index.html'
+	},
 	// {
 	// 	title: 'Landing Hydra',
 	// 	skills: 'HTML, CSS, animation',

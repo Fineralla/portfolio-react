@@ -17,10 +17,10 @@ function ProjectPage() {
 						alt='{project.title}'
 						className='project-details__cover'
 					/>
-
+{/* 
 					<div className='project-details__desc'>
 						<p>{project.skills}</p>
-					</div>
+					</div> */}
 					<div className='project-details__btns'>
 						{/* <BtnGitHub link={project.gitHubLink} /> */}
 						{/* <BtnLiveDemo link={project.liveDemoLink} /> */}

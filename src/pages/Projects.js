@@ -17,6 +17,7 @@ function Projects() {
 								skills={project.skills}
 								gitHubLink={project.gitHubLink}
 								liveDemoLink={project.liveDemoLink}
+								figmaLink={project.figmaLink}
 							/>
 						);
 					})}

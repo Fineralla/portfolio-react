@@ -5,7 +5,7 @@ function BtnLiveDemo({ link }) {
 	return (
 		<a href={link} target='_blank' className='btn-outline' rel='noreferrer'>
 			<img src={liveIcon} alt='' />
-			GoLive
+			Go To Figma
 		</a>
 	);
 }

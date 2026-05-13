@@ -3,7 +3,7 @@ import BtnGitHub from '../BtnGitHub/BtnGitHub';
 import BtnLiveDemo from '../BtnLiveDemo/BtnLiveDemo';
 import './Project.css';
 
-function Project({ title, img, index, skills, gitHubLink, liveDemoLink }) {
+function Project({ title, img, index, skills, gitHubLink, liveDemoLink, figmaLink }) {
 	return (
 		<li className='project'>
 			<NavLink to={`/project-page/${index}`}>

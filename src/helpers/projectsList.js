@@ -6,6 +6,7 @@ import project03 from './../img/projects/03.jpg';
 import project03Big from './../img/projects/03-big.jpg';
 import project04 from './../img/projects/04.jpg';
 import project04Big from './../img/projects/04-big.jpg';
+<<<<<<< HEAD
 import project05 from './../img/projects/05.jpg';
 import project05Big from './../img/projects/05-big.jpg';
 import sneakers from './../img/projects/sneakers.png';
@@ -14,11 +15,14 @@ import businesscardback from './../img/projects/Business Cards2.png';
 import yandexpetday from './../img/projects/YPD.png';
 import yandexpetday2 from './../img/projects/YPD2.png';
 import airpods from './../img/projects/airpods.png';
+=======
+>>>>>>> parent of 412f0202 (add rustore)
 
 const projects = [
 	{
 		title: 'Airpods',
 		skills: 'JS, HTML, CSS',
+<<<<<<< HEAD
 		img: airpods,
 		imgBig: airpods,
 		figmaLink: "https://www.figma.com/design/mFaVCotfyuetOfvXBwxIL8/%D0%94%D0%BB%D1%8F-%D0%BF%D0%BE%D1%80%D1%82%D1%84%D0%BE%D0%BB%D0%B8%D0%BE?node-id=28-34"
@@ -99,6 +103,15 @@ const projects = [
 		// 	'https://fineralla.github.io/Portfolio/pages/pig-game/index.html'
 	},
 	
+=======
+		img: project04,
+		imgBig: project04Big,
+		gitHubLink:
+			'https://github.com/Fineralla/Portfolio/tree/main/pages/pig-game',
+		liveDemoLink:
+			'https://fineralla.github.io/Portfolio/pages/pig-game/index.html'
+	}
+>>>>>>> parent of 412f0202 (add rustore)
 	// {
 	// 	title: 'Landing Hydra',
 	// 	skills: 'HTML, CSS, animation',

@@ -8,6 +8,7 @@ import project04 from './../img/projects/04.jpg';
 import project04Big from './../img/projects/04-big.jpg';
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 import project05 from './../img/projects/05.jpg';
 import project05Big from './../img/projects/05-big.jpg';
 import sneakers from './../img/projects/sneakers.png';
@@ -20,11 +21,14 @@ import airpods from './../img/projects/airpods.png';
 >>>>>>> parent of 412f0202 (add rustore)
 =======
 >>>>>>> parent of 412f0202 (add rustore)
+=======
+>>>>>>> parent of 412f0202 (add rustore)
 
 const projects = [
 	{
 		title: 'Airpods',
 		skills: 'JS, HTML, CSS',
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 		img: airpods,
@@ -110,6 +114,8 @@ const projects = [
 =======
 =======
 >>>>>>> parent of 412f0202 (add rustore)
+=======
+>>>>>>> parent of 412f0202 (add rustore)
 		img: project04,
 		imgBig: project04Big,
 		gitHubLink:
@@ -118,6 +124,9 @@ const projects = [
 			'https://fineralla.github.io/Portfolio/pages/pig-game/index.html'
 	}
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 412f0202 (add rustore)
+=======
 >>>>>>> parent of 412f0202 (add rustore)
 =======
 >>>>>>> parent of 412f0202 (add rustore)

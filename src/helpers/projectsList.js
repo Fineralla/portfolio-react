@@ -7,6 +7,7 @@ import project03Big from './../img/projects/03-big.jpg';
 import project04 from './../img/projects/04.jpg';
 import project04Big from './../img/projects/04-big.jpg';
 <<<<<<< HEAD
+<<<<<<< HEAD
 import project05 from './../img/projects/05.jpg';
 import project05Big from './../img/projects/05-big.jpg';
 import sneakers from './../img/projects/sneakers.png';
@@ -17,11 +18,14 @@ import yandexpetday2 from './../img/projects/YPD2.png';
 import airpods from './../img/projects/airpods.png';
 =======
 >>>>>>> parent of 412f0202 (add rustore)
+=======
+>>>>>>> parent of 412f0202 (add rustore)
 
 const projects = [
 	{
 		title: 'Airpods',
 		skills: 'JS, HTML, CSS',
+<<<<<<< HEAD
 <<<<<<< HEAD
 		img: airpods,
 		imgBig: airpods,
@@ -104,6 +108,8 @@ const projects = [
 	},
 	
 =======
+=======
+>>>>>>> parent of 412f0202 (add rustore)
 		img: project04,
 		imgBig: project04Big,
 		gitHubLink:
@@ -111,6 +117,9 @@ const projects = [
 		liveDemoLink:
 			'https://fineralla.github.io/Portfolio/pages/pig-game/index.html'
 	}
+<<<<<<< HEAD
+>>>>>>> parent of 412f0202 (add rustore)
+=======
 >>>>>>> parent of 412f0202 (add rustore)
 	// {
 	// 	title: 'Landing Hydra',
